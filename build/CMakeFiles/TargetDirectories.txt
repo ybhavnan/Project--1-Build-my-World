@@ -1,3 +1,0 @@
-/home/robond/Documents/Robotics_udacity/myrobot/build/CMakeFiles/edit_cache.dir
-/home/robond/Documents/Robotics_udacity/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/robond/Documents/Robotics_udacity/myrobot/build/CMakeFiles/hello.dir
